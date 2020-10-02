@@ -12,7 +12,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ### Group Member 1: Jonas
-### Group Member 2: Your name here
+### Group Member 2: Lulu
 
 
 
