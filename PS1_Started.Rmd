@@ -11,7 +11,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-### Group Member 1: Your name here
+### Group Member 1: Jonas
 ### Group Member 2: Your name here
 
 
